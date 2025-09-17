@@ -1,4 +1,4 @@
-package com.vico.demo.springboot_demo;
+package com.vico.demo.cinespring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
