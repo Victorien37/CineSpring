@@ -32,6 +32,8 @@ public class User {
 
     private String password;
 
+    private String role;
+
     @CreationTimestamp
     @Column(name = "created_at")
     private LocalDateTime createdAt;
